@@ -29,10 +29,14 @@ UC Berkeley Engineering - Practical Application 5.1
 ## High level summary 
 **Executive summary**
 
-#### Based Upon the analysis conducted on Bar Coupons there are some observations to help develop a campaign targetted at the optimal auidence for any marketing / promotional coupons
-- Drivers that tend to visit the Bars and are familar with their respective Bar (multiple visits / month) show high correlation in acceptance of Bar Coupons received 
-- Drivers that are under 30 with adult companions and no children in the vehicle tend to be a good target auidence for Bar Coupon promotions with the highest acceptance rates for the Bar Coupons. 
-- Drivers about 50k income would also be a good target group given frequening Bars tends to be an expensive outing and less likely for more conservatives in the 50k or below income range.
+#### Recommendations: Bar Coupon Acceptance 
 
-#### Based Upon the analysis conducted on Bar Coupons there are some observations to help develop a campaign targetted at the optimal auidence for any marketing / promotional coupons
+##### Based Upon the analysis conducted on Bar Coupons there are some observations to help develop a campaign targetted at the optimal auidence for any marketing / promotional coupons
+- Drivers that tend to visit Bars frequently (multiple visits / month) show a high acceptance of Bar Coupons received 
+- Drivers that are under 30 with adult companions and no children in the vehicle show a high acceptance rate of Bar Coupons received. 
+- Income range below 50k and behavior of attending cheaper restaurants frequently would tend to be a poor group to send bar coupons to. 
+
+#### Recommendations : Carry Out & Take Away Coupon Acceptance  
+
+##### Based Upon the analysis conducted on Carry Out & Take Away  Coupons there are some observations to help develop a campaign targetted at the optimal auidence for any marketing / promotional coupons
 - Drivers that are heading home or have no urgent place to go have a high acceptance rate of 77% (this could be evenings upon returning from work or the weekends to sent coupons to drivers) - acceptance rate for this group was 12% greater than those going to work. 
